@@ -83,3 +83,22 @@ npm start
 - react-router-dom
 - react-stripe-checkout
 - sweetalert2
+
+## Sample Screenshots
+
+#### Landing Page
+
+username: user@gmail.com
+
+password: 123456
+
+<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/Sample.gif?raw=true" />
+
+#### Profile
+
+<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/SampleCancel.gif?raw=true" />
+
+#### Admin Page
+
+<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/SampleAdmin.gif?raw=true" />
+
