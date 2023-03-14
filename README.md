@@ -92,13 +92,16 @@ username: user@gmail.com
 
 password: 123456
 
-<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/Sample.gif?raw=true" />
+![SampleCancel](https://user-images.githubusercontent.com/97042529/224918631-f195d2d6-7610-495d-8b97-84296101aaac.gif)
+
 
 #### Profile
 
-<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/SampleCancel.gif?raw=true" />
+![SampleCancel-min](https://user-images.githubusercontent.com/97042529/224918705-a91c1ce8-fb31-4d4c-b30c-b9a2e8a03ba5.gif)
+
 
 #### Admin Page
 
-<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/SampleAdmin.gif?raw=true" />
+![SampleAdmin-min](https://user-images.githubusercontent.com/97042529/224918741-a69baaa2-c523-4288-9b6d-5035bf23f681.gif)
+
 
