@@ -25,9 +25,6 @@ Please edit **bookingRoute.js** and put your stripe **private api key**
 
 execute following command
 
-```bash
-npm start
-```
 
 start the server
 
@@ -62,10 +59,6 @@ Please edit Bookingscreen.js and put your stripe **public api key**
 <img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/StripePublicAPIKey.PNG?raw=true" />
 
 execute following command
-
-```bash
-npm i
-```
 
 start the client
 
