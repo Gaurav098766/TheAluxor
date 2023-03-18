@@ -9,13 +9,13 @@ MongoDB Express React NodeJs
 
 Please edit **db.js** mongodb connection string 
 
-<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/ServerDBConfig.PNG?raw=true" />
+![image](https://user-images.githubusercontent.com/97042529/226100016-f52d4412-3d60-4e7b-9e56-ad11d049a708.png)
 
 You may import the sample collections at **mongodb_collections** folder
 
 **mongodb screenshot**
 
-<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/SampleDB.PNG?raw=true" />
+![image](https://user-images.githubusercontent.com/97042529/226100057-f588b9bb-0c50-49c4-9f08-483256ba4846.png)
 
 ##### Stripe API Key Configuration
 
