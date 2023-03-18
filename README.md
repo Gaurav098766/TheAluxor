@@ -26,13 +26,13 @@ Please edit **bookingRoute.js** and put your stripe **private api key**
 execute following command
 
 ```bash
-npm i
+npm start
 ```
 
 start the server
 
 ```bash
-nodemon server
+nodemon index.js
 ```
 
 ##### npm package use:
