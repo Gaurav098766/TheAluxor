@@ -81,9 +81,9 @@ npm start
 
 #### Landing Page
 
-username: user@gmail.com
+username: g@gmail.com
 
-password: 123456
+password: gaurav
 
 ![SampleCancel](https://user-images.githubusercontent.com/97042529/224918631-f195d2d6-7610-495d-8b97-84296101aaac.gif)
 
