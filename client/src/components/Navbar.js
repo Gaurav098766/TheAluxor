@@ -1,7 +1,15 @@
 import React from 'react'
 
 function Navbar() {
-  const user = JSON.parse(localStorage.getItem('currentUser'));
+  let user = null;
+const userString = localStorage.getItem('currentUser');
+try {
+  user = userString ? JSON.parse(userString) : null;
+} catch (error) {
+  console.error('Error parsing user data:', error);
+}
+
+
 
   function logout(){
     localStorage.removeItem('currentUser')
