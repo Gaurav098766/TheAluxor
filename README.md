@@ -1,4 +1,4 @@
-# MERNHotelBooking
+# MERN Hotel Booking App
 MERN Stack Hotel Booking App
 
 MongoDB Express React NodeJs
