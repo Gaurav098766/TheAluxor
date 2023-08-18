@@ -1,4 +1,7 @@
-# MERN Hotel Booking App
+# MERN Hotel Booking App : 
+
+### URL : http://13.127.135.194:3000/
+
 MERN Stack Hotel Booking App
 
 MongoDB Express React NodeJs
